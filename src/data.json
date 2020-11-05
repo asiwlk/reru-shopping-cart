@@ -1,0 +1,31 @@
+{
+    "products": [
+            {  "_id": "dress0", 
+               "image": "/images/dress0.jpg", 
+                "title": "Party Dress", "description": " about dress 0","price":100 ,"size": ["S","L"] },
+            { "_id": "dress1", 
+                "image": "/images/dress1.jpg", 
+                "title": "Party Dress", "description": " about dress 1","price":200 , "size": ["X","L"] },
+            { "_id": "dress2", 
+                "image": "/images/dress2.jpg", 
+                "title": "Party Dress", "description": " about dress 2","price":300 , "size": ["XL","X"] },
+            { "_id": "dress3", 
+                "image": "/images/dress3.jpg", 
+                "title": "Party Dress", "description": " about dress 3","price":400 , "size": ["XXL","S"] },
+            { "_id": "dress4", 
+                "image": "/images/dress4.jpg", 
+                "title": "Party Dress", "description": " about dress 4","price":500 , "size": ["XL","X"] },
+            { "_id": "dress5", 
+                "image": "/images/dress5.jpg", 
+                "title": "Party Dress", "description": " about dress 5","price":600 , "size": ["XXL","S"] },
+            { "_id": "dress6", 
+                "image": "/images/dress6.jpg", 
+                "title": "Party Dress", "description": " about dress 6","price":700 , "size": ["m","S"] },
+            { "_id": "dress7", 
+                "image": "/images/dress7.jpg", 
+                "title": "Party Dress", "description": " about dress 7","price":800 , "size": ["L","M"] }
+                    
+                    
+
+    ]
+}
