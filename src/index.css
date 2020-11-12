@@ -152,3 +152,16 @@ footer{
 
   flex: 1;
 }
+
+/* styles for the cart*/
+
+.cart{
+ padding: 1rem;
+ margin: 1rem;
+ display: flex;
+}
+
+.cart-header {
+  border-bottom: 0.1rem #c0c0c0;
+
+}
